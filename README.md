@@ -4,7 +4,7 @@
 [![Instagram - TeeqPRO3D](https://img.shields.io/static/v1?label=Instagram&message=TeeqPRO&color=blueviolet&logo=github)](https://www.instagram.com/teeqpro3d/)
 
 **Plugin that was used:**
--  [!BlenderKit](https://img.shields.io/static/v1?label=Plugin&message=BlenderKit&color=green&logo=github)](https://www.blenderkit.com/get-blenderkit/)
+-  [![Plugin - BlenderKit](https://img.shields.io/static/v1?label=Plugin&message=BlenderKit&color=green&logo=github)](https://www.blenderkit.com/get-blenderkit/)
 
 ## 🎥 Renders
 
@@ -18,6 +18,14 @@
 
 ![Animation1](linktoanim)
 
+## 🪑Desk
+
+![Desk-animation-no1](linktoimage)
+![Desk-screenshot-no1](linktoimage)
+
 ## 🏃‍♀️ Treadmill
 
+![Treadmill-animation-no1](linktoimage)
 ![Treadmill-screenshot-no1](linktoimage)
+
+## 🛏️ Bed
