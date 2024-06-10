@@ -10,8 +10,8 @@
 
 📹 Short animation.
 
-![Animation1](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Animations/pokoj.gif)
-- [**Better Quality**](Link) For better quality you can download mp4 file here 
+![Animation1](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Gif/Animation1.gif)
+- [**Better Quality**](https://github.com/TeeqPRO/Room_Project/tree/main/Files/Animations/Animation1.mp4) For better quality you can download mp4 file here 
 
 ## 🔍 Showcase of room
 
@@ -20,7 +20,9 @@
 
 ## 🏃‍♀️ Treadmill
 
-![Treadmill-animation-no1](linktoimage)
+![Animation2](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Gif/Animation2.gif)
+- [**Better Quality**](https://github.com/TeeqPRO/Room_Project/tree/main/Files/Animations/Animation2.mp4) For better quality you can download mp4 file here
+  
 ![Treadmill-screenshot-no1](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Images/Render3.png)
 
 ## 🗼 Download files 
