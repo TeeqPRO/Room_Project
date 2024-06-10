@@ -22,6 +22,6 @@
 ![Treadmill-animation-no1](linktoimage)
 ![Treadmill-screenshot-no1](linktoimage)
 
-## 🗼 .blend Files 
+## 🗼 Download files 
 
 - [**Download**](https://drive.google.com/drive/folders/1wByBbrmoSwOeJ60nxYzwwk8Pn4y2UZjz?hl=pl) Room .blend 🏠
