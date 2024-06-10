@@ -15,7 +15,7 @@
 ## 🔍 Showcase of room
 
 ![Room-screenshot-no1](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Images/Render1.jpg)
-![Room-screenshot-no2](linktoimage)
+![Room-screenshot-no2](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Images/Render2.jpg)
 
 ## 🏃‍♀️ Treadmill
 
