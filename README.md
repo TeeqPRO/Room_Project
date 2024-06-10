@@ -10,7 +10,7 @@
 
 📹 Short animation.
 
-![Animation1](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Animations/Animation2.mp4)
+![Animation1](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Animations/pokoj.gif)
 
 ## 🔍 Showcase of room
 
