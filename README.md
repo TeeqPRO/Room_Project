@@ -20,7 +20,7 @@
 ## 🏃‍♀️ Treadmill
 
 ![Treadmill-animation-no1](linktoimage)
-![Treadmill-screenshot-no1](linktoimage)
+![Treadmill-screenshot-no1](https://github.com/TeeqPRO/Room_Project/blob/main/Files/Images/Render3.png)
 
 ## 🗼 Download files 
 
